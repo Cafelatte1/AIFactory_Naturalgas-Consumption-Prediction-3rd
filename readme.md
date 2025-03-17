@@ -1,4 +1,4 @@
-## 🏆 AIFactory 쳔연가스 소비 예측 - 3st Place Solution
+## 🏆 AIFactory 천연가스 소비 예측 - 3rd Place Solution
 ![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Success-green)
 
